@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm iazkue</h1>
-<h3 align="center">A student of Public University of Navarra (computer engineering)</h3>
+<h3 align="center">A student of Public University of Navarra (third year of computer engineering)</h3>
 
 - 📫 How to reach me **iazkue@ni.eus**
 
